@@ -1,0 +1,35 @@
+{
+  "name": "Crypto Humans #190",
+  "description": "The Crypto Humans are the combination of 5000 random generators on Ethereum Blockchain, making each one unique.",
+  "image": "ipfs://QmTZQVTgwUFzXkbGGiwYKYx4jTYUk8DaPHFFjo8qkF3Hrx/190.png",
+  "dna": "fda06987c95aac27461de6dc4b2ac72f0b3c5613",
+  "edition": 190,
+  "date": 1663994111922,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Poultry"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Chicken"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beak A"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Comb"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
