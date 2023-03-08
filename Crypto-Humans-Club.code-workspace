@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Crypto-Humans-Club",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../../Downloads/11:16版本/images"
+		},
+		{
+			"name": "json",
+			"path": "../../../Downloads/11:16版本/json"
+		}
+	],
+	"settings": {}
+}
